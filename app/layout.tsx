@@ -16,12 +16,12 @@ const vercettiFont = localFont({
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://example.com/'),
-  title: "Mohit Virli ✌️",
-  description: "A frontend developer by profession, a creative at heart.",
-  keywords: "Mohit Virli, Frontend Engineer, React Developer, Three.js, Creative Developer, Web Development, Angular, JavaScript, TypeScript, Portfolio",
-  authors: [{ name: "Mohit Virli" }],
-  creator: "Mohit Virli",
-  publisher: "Mohit Virli",
+  title: "Namrata Singhh ✌️",
+  description: "Motion Graphic Designer by Profession , driven by creativity and detail.",
+  keywords: "Namrata Singh, Motion Design , Aniamtion, Video Editing, Visual Identity, Creative Strategy, Portfolio",
+  authors: [{ name: "Namrata Singh" }],
+  creator: "Namrata Singh",
+  publisher: "Namrata Singh",
   formatDetection: {
     email: false,
     address: false,
@@ -38,19 +38,19 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
-    siteName: "Mohit Virli's Portfolio",
+    title: "Namrata Singh - Motion Graphic Designer",
+    description: "Motion Graphic Designer by profession, creative at heart.",
+    siteName: "Namrata Singh Portfolio",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
+    title: "Namrata Singh - Motion Graphic Designer",
+    description: "Motion Graphic Designer by profession, creative at heart.",
   },
   verification: {
-    google: "GsRYY-ivL0F_VKkfs5KAeToliqz0gCrRAJKKmFkAxBA",
+    google: "",
   },
 };
 
